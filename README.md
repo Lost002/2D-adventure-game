@@ -1,2 +1,1 @@
-# CppSnake
-An advanced snake game in C++
+# idk what to name it
